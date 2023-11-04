@@ -1,3 +1,12 @@
+# 2.0.0
+
+- Remove standalone meta attribute
+- Update kotlin version
+- Ambient mode changes
+- Added proguard config
+- Corrected enum name in readme
+- Updated readme with changes
+
 # 1.1.0
 
 - Fix issue with non-windows builds breaking.
